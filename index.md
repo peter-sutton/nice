@@ -11,4 +11,6 @@
 
 <h1>About the project</h1>
 
-Site under construction.
+<p>Site under construction.</p>
+
+<p>This project is funded by the Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
