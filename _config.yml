@@ -1,4 +1,6 @@
 title: NiCE Project
 description: Nouns in Contexts of Evaluation
 google_analytics:
+github:
+  is_project_page: false
 theme: jekyll-theme-cayman
