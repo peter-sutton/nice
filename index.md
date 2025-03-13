@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <table>
   <tbody>
     <tr>
@@ -12,6 +8,7 @@ layout: default
     </tbody>
 </table>
 
-# About the project
+
+<h1>About the project</h1>
 
 Site under construction
