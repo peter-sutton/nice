@@ -11,4 +11,4 @@
 
 <h1>About the project</h1>
 
-Site under construction
+Site under construction.
