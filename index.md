@@ -12,6 +12,6 @@
 <h1>About the project</h1>
 
 <p>Site under construction.</p>
-<p>PI of the NiCE project: <a href="[url](https://peter-sutton.github.io)">Peter Sutton</a></p>
+<p>PI of the NiCE project: <a href="https://peter-sutton.github.io">Peter Sutton</a></p>
 
 <p>This project is hosted at the UNiversity of Potsdam and is funded by the Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
