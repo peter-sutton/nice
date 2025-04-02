@@ -9,10 +9,12 @@
 </table>
 
 
+### Preamble 
+
 The publications listed here were produced as part of the NiCE project and with a preparatory stipend provided by the University of Potsdam. <a href="https://peter-sutton.github.io/papers">A full list of my publications are available on my personal website.</a>
 
 
-## Publications
+### Publications
 
 <!-- wp:list -->
 <ul>
