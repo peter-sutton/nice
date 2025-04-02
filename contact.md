@@ -16,7 +16,7 @@
 <p><strong>peter&nbsp;</strong><em>dot</em><strong>&nbsp;r&nbsp;</strong><em>dot</em><strong>&nbsp;sutton&nbsp;</strong><em>at_symbol</em><strong>&nbsp;icloud&nbsp;</strong><em>dot</em><strong>&nbsp;com</strong></p>
 
 <p>
-Institut für Linguistik<br>
+<a href="https://www.uni-potsdam.de/en/ling/index">Institut für Linguistik</a><br>
 Universität Potsdam<br>
 Karl-Liebknecht-Str. 24-25<br>
 Raum 3.26<br>
