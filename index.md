@@ -16,6 +16,8 @@
 
 <p>These three types of context sensitivity are intertwined, not least since all three display interactions with the Question Under Discussion (QUD). Additionally, all feed into the interpretations of quantificational constructions such as <i>three statements</i> and <i>every statement</i> and so all three types of context sensitivity are intrinsically linked to what counts as <i>one</i> in the denotation of a noun.</p>
 
+<p><a href="NiCE.pdf" data-type="page" data-id="29">Read more infomation about the NiCE project (download pdf).</a></p>
+
 
 ## Funding Information
 
