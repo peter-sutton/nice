@@ -8,6 +8,9 @@
     </tbody>
 </table>
 
+<a href="https://peter-sutton.github.io/papers">&lt;A full list of my publications are available on my personal website.&gt;</a>
+
+
 ## Publications
 
 <!-- wp:list -->
