@@ -10,9 +10,13 @@
 </table>
 
 
-<h1>About the project</h1>
+## About the project
 
-<p>Site under construction.</p>
-<p>PI of the NiCE project: <a href="https://peter-sutton.github.io">Peter Sutton</a></p>
+<p>The NiCE project examines the complex, interrelated, and systematic ways that common nouns, especially polysemous abstract nouns, display sensitivity to context. In particular, focus will be on three types of contextual variation identified in the literature: Nominal domain restriction, variation in counting perspectives, and individuation criteria for polysemous nouns.</p>
 
-<p>This project is hosted at the UNiversity of Potsdam and is funded by the Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
+<p>These three types of context sensitivity are intertwined, not least since all three display interactions with the Question Under Discussion (QUD). Additionally, all feed into the interpretations of quantificational constructions such as <i>three statements</i> and <i>every statement</i> and so all three types of context sensitivity are intrinsically linked to what counts as <i>one</i> in the denotation of a noun.</p>
+
+
+## Funding Information
+
+<p>This project is hosted at the University of Potsdam and is funded by the Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
