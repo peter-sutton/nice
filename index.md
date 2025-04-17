@@ -21,4 +21,4 @@
 
 ## Funding Information
 
-<p>This project is hosted at the University of Potsdam and is funded by the Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
+<p>This project is hosted at the University of Potsdam and is funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG), project number 552248395.</p>
