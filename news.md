@@ -13,6 +13,8 @@
 # 05.2025
 
 ### 16.05. A talk at the ZAS Semantics Circle introducing the NiCE project
+<p>Polysemous Abstract Nouns: Categorisation and Individuation</p>
+<br>
 
 ### 15.05. Our volume on <a href="https://www.cambridge.org/core/elements/types-and-the-structure-of-meaning/27C1813D046DADA53FC6A2BEC505E941"><i>Types and the Structure of Meaning: Issues in Compositional and Lexical Semantics</i></a> is now out! <br>
 <p> Authors: Stergios Chatzikyriakidis, Robin Cooper, Eleni Gregoromichelaki and Peter Sutton <br> 
