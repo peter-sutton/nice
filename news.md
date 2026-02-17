@@ -11,7 +11,7 @@
 
 # 02.2025
 
-Prefinal draft of SuB 30 proceedings paper  on <i>Individuation criteria and copredication: modification in context</i>:
+### The prefinal draft of SuB 30 proceedings paper  on <i>Individuation criteria and copredication: modification in context</i> is now available. 
 
 # 01.2025
 
