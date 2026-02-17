@@ -11,6 +11,8 @@
 
 # 02.2025
 
+### 22.02: I will be giving a talk at the Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).   
+
 ### The prefinal draft of SuB 30 proceedings paper  on  <a href="Sutton_SuB28.pdf" > Individuation criteria and copredication: modification in context </a> is now available. 
 
 # 01.2025
