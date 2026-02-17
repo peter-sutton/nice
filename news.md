@@ -9,6 +9,19 @@
     </tbody>
 </table>
 
+# 02.2025
+
+Prefinal draft of SuB 30 proceedings paper  on <i>Individuation criteria and copredication: modification in context</i>:
+
+# 01.2025
+
+### Entry on Nouns in the Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online (with Hana Filip)
+
+<p> <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html> </p>
+
+# 09.2025
+
+### A talk at SuB 30 in Frankfurt: "Individuation criteria and copredication: modification in context"
 
 # 05.2025
 
