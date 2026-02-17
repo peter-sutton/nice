@@ -17,7 +17,7 @@ Prefinal draft of SuB 30 proceedings paper  on <i>Individuation criteria and cop
 
 ### The entry on Nouns in the Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online (with Hana Filip) is now available:
 
-<p> <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"></a> </p>
+<p> <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a> </p>
 
 # 09.2025
 
