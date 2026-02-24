@@ -13,7 +13,7 @@
 
 ### 22.02: I will be giving a talk at the Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  <a href="Szklarska26_slides.pdf" > Preliminary slides</a> 
 
-### 17.02. A paper with  Marina Bolea and Louise McNally on <i>Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data</i> is now available online.  <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a></li>
+### 17.02. A paper with  Marina Bolea and Louise McNally on <i>Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data</i> is now available online.  <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a>
 
 ### 01.02: The prefinal draft of SuB 30 proceedings paper  on  <a href="Sutton_SuB28.pdf" > Individuation criteria and copredication: modification in context </a> is now available. 
 
