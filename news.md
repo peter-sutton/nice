@@ -11,7 +11,7 @@
 
 # 02.2026
 
-### 22.02: I gave a talk at the 26th Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  <a href="szklarska26slides.pdf" > Preliminary slides</a> 
+### 22.02: I gave a talk at the 26th Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  <a href="szklarska2026slides.pdf" > Preliminary slides</a> 
 
 ### 17.02. A paper with  Marina Bolea and Louise McNally on <i>Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data</i> is now available online.  <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a>
 
