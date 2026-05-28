@@ -9,6 +9,18 @@
     </tbody>
 </table>
 
+# 05.2026
+
+## I presented a paper on wesk and strong modality in Igbo at SULA-TripleA in Vancouver (joint work with Natalia Krasikova and Malte Zimmermann) <a href="krasikova-slides.pdf">Slides</a> 
+
+## I gave a talk at the Potsdam MoSySe Colloquium on Nominal complementiser clauses, polysemy & lexical
+semantics. <a href="mosysem-2026-slides-sutton.pdf">Slides</a> 
+
+# 04.2026
+
+## My new book <i> Objects and the grammar of countability </i> (joint with Hana Filip) is in press! 
+<a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=de&lang=en&">
+
 # 02.2026
 
 ### 22.02: I gave a talk at the 26th Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  <a href="szklarska2026slides.pdf" > Preliminary slides</a> 
