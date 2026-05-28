@@ -11,23 +11,26 @@
 
 # 05.2026
 
-## I presented a paper on wesk and strong modality in Igbo at SULA-TripleA in Vancouver (joint work with Natalia Krasikova and Malte Zimmermann) <a href="krasikova-slides.pdf">Slides</a> 
+### I presented a paper on wesk and strong modality in Igbo at SULA-TripleA in Vancouver (joint work with Natalia Krasikova and Malte Zimmermann) 
+<a href="krasikova-slides.pdf"> Slides</a> 
 
-## I gave a talk at the Potsdam MoSySe Colloquium on Nominal complementiser clauses, polysemy & lexical
-semantics. <a href="mosysem-2026-slides-sutton.pdf">Slides</a> 
+### I gave a talk at the Potsdam MoSySe Colloquium on Nominal complementiser clauses, polysemy & lexical semantics. 
+<a href="mosysem-2026-slides-sutton.pdf">Slides</a> 
 
 # 04.2026
 
-## My new book <i> Objects and the grammar of countability </i> (joint with Hana Filip) is in press! 
-<a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=de&lang=en&">
+<h3> My new book <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=de&lang=en&">  Objects and the grammar of countability</a>  (joint with Hana Filip) is in press! 
+</h3>
 
 # 02.2026
 
-### 22.02: I gave a talk at the 26th Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  <a href="szklarska2026slides.pdf" > Preliminary slides</a> 
+### 22.02: I gave a talk at the 26th Szklarska Poreba Workshop: "Nominal <i>that</i>-complementisers: Eventualities, Situations and Polysemy" (with Robin Cooper).  
+<a href="szklarska2026slides.pdf" > Preliminary slides</a> 
 
-### 17.02. A paper with  Marina Bolea and Louise McNally on <i>Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data</i> is now available online.  <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a>
+### 17.02. A paper with  Marina Bolea and Louise McNally on <i>Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data</i> is now available online.  
+<a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a>
 
-### 01.02: The prefinal draft of SuB 30 proceedings paper  on  <a href="Sutton_SuB28.pdf" > Individuation criteria and copredication: modification in context </a> is now available. 
+<h3> 01.02: The prefinal draft of SuB 30 proceedings paper  on  <a href="Sutton_SuB28.pdf" > Individuation criteria and copredication: modification in context </a> is now available. </h3>
 
 # 01.2026
 
