@@ -9,9 +9,15 @@
     </tbody>
 </table>
 
+# 06.2026
+
+### My co-author Natalia Krasikova presented our poster on weak and strong modality in Igbo at SALT in Buenos Aires (joint work with Malte Zimmermann) 
+<a href="krasikova-slides.pdf"> Slides</a> 
+
+
 # 05.2026
 
-### I presented a paper on wesk and strong modality in Igbo at SULA-TripleA in Vancouver (joint work with Natalia Krasikova and Malte Zimmermann) 
+### I presented a paper on weak and strong modality in Igbo at SULA-TripleA in Vancouver (joint work with Natalia Krasikova and Malte Zimmermann) 
 <a href="krasikova-slides.pdf"> Slides</a> 
 
 ### I gave a talk at the Potsdam MoSySe Colloquium on Nominal complementiser clauses, polysemy & lexical semantics. 
