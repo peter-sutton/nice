@@ -9,10 +9,17 @@
     </tbody>
 </table>
 
-# 06.2026
+
+# 08.2026
+
+### Louise McNally (UPF Barcelona) and I co-organised a workshop on Polysemy Across Categories (PAC) at ESSLLI
+<a href="https://sites.google.com/view/pac2026"> PAC website </a>
+
+
+# 07.2026
 
 ### My co-author Natalia Krasikova presented our poster on weak and strong modality in Igbo at SALT in Buenos Aires (joint work with Malte Zimmermann) 
-<a href="krasikova-slides.pdf"> Slides</a> 
+<a href="salt-poster-final.pdf"> Poster</a> 
 
 
 # 05.2026
