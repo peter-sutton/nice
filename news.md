@@ -12,6 +12,9 @@
 
 # 08.2026
 
+### MY paper <i>Gradable abstract nouns and eventualities</i> has been published as a part of the Sinn und Bedeutung (SuB 30) proceedings
+<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384"> Proceedings link </a>
+
 ### Louise McNally (UPF Barcelona) and I co-organised a workshop on Polysemy Across Categories (PAC) at ESSLLI
 <a href="https://sites.google.com/view/pac2026"> PAC website </a>
 
