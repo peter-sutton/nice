@@ -12,6 +12,9 @@
 
 # 08.2026
 
+<h3> My new book <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=de&lang=en&">  Objects and the grammar of countability</a>  (joint with Hana Filip) has been published!  Also available via <a href="https://academic.oup.com/book/63164">Oxford Academic</a>
+</h3>
+
 ### MY paper <i>Gradable abstract nouns and eventualities</i> has been published as a part of the Sinn und Bedeutung (SuB 30) proceedings
 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384"> Proceedings link </a>
 
