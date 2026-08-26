@@ -18,6 +18,7 @@
 ### Louise McNally (UPF Barcelona) and I co-organised a workshop on Polysemy Across Categories (PAC) at ESSLLI
 <a href="https://sites.google.com/view/pac2026"> PAC website </a>
 
+<a href="https://drive.google.com/drive/folders/1Q4U_6S_vDR1JpbZKHuRrTroyDGmYvesp?usp=drive_link"> Slides and posters for PAC</a>
 
 # 07.2026
 
